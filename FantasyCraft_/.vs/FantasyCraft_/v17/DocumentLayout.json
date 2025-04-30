@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jakob\\Documents\\2Ahif\\POS\\Github\\FantasyCraft_\\FantasyCraft_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C60D7F3-D5D2-470C-9728-67763CFFC10E}|FantasyCraft_\\FantasyCraft_.csproj|c:\\users\\jakob\\documents\\2ahif\\pos\\github\\fantasycraft_\\fantasycraft_\\fantasycraft_\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C60D7F3-D5D2-470C-9728-67763CFFC10E}|FantasyCraft_\\FantasyCraft_.csproj|solutionrelative:fantasycraft_\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\2Ahif\\POS\\Github\\FantasyCraft_\\FantasyCraft_\\FantasyCraft_\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FantasyCraft_\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\jakob\\Documents\\2Ahif\\POS\\Github\\FantasyCraft_\\FantasyCraft_\\FantasyCraft_\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FantasyCraft_\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:06:06.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
